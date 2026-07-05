@@ -1,74 +1,69 @@
-# Informe del Crítico — Revisión Bibliográfica (Librarian)
+# Informe del Crítico — Revisión Bibliográfica (Librarian), RONDA 2 / FINAL
 **Artefacto evaluado:** `quality_reports/lit_review_influencia-afrocubana-tangos-piyayo.md`
-**Fase:** Discovery (severidad baja/alentadora, pero rigor factual exigido)
-**Fecha de revisión:** 2026-07-05
+**Fase:** Discovery (severidad baja/alentadora, dominio humanidades — no economía)
+**Ronda:** 2 de 2 (última permitida por protocolo `/discover lit`; no se relanzará una tercera búsqueda)
+
+## Resumen de Ronda 1 (referencia breve)
+Puntuación: 70/100. Cinco huecos identificados: Carpentier ausente, Diccionario Blas Vega/Ríos Ruiz no descartado, requisito francófono incumplido sustantivamente, ventana 2005-2014 casi vacía, tesis doctorales no buscadas, bibliografía cruzada de Núñez no verificada. Honestidad ya era intachable en Ronda 1.
 
 ---
 
-## Puntuación: 70/100
+## Puntuación final: 83/100
 
-**Veredicto:** NO listo para uso directo en el capítulo sin una ronda adicional dirigida (máx. 1 ronda, según protocolo). El documento es honesto, metodológicamente transparente y produce una cartografía del debate genuinamente matizada — es un buen borrador de trabajo. Pero tiene huecos de cobertura concretos y verificables que afectan directamente a la credibilidad de las dos afirmaciones centrales del capítulo: (a) que el "punto de inflexión" se puede datar, y (b) que el cruce disciplinar flamencología↔musicología cubana está genuinamente ausente en la literatura existente.
-
----
-
-## 1. Cobertura — Deducción: −12
-
-**Fortalezas:** Cobertura sólida en inglés (Goldberg x2, Moore, Sublette, Mitchell, Washabaugh, Manuel, Pérez Fernández) y del lado cubano clásico (Ortiz, Argeliers León, Pérez Fernández, Linares).
-
-**Huecos concretos y accionables:**
-- **Falta Alejo Carpentier, *La música en Cuba* (1946)** — síntesis histórica canónica de la cadena contradanza→habanera→tango que el documento reconstruye vía Manuel y Núñez sin citar la obra de referencia más citada sobre ese eslabón.
-- **Falta Blas Vega & Ríos Ruiz, *Diccionario Enciclopédico Ilustrado del Flamenco* (Cinterco, 1988)** — antes de afirmar que "cero fuentes académicas tratan monográficamente a El Piyayo" habría que descartar que este diccionario no tenga entrada directa sobre él.
-- **Francés: el requisito de alcance acordado no se cumplió de forma sustantiva.** Falta Bernard Leblon (*Musiques tsiganes et flamenco*, 1990; *Flamenco*, Actes Sud/Cité de la Musique, 2003), la referencia académica francesa más conocida sobre flamenco/gitanidad y cruces atlánticos.
-- **No se buscaron tesis doctorales recientes** (TESEO, Dialnet Tesis Doctorales, ProQuest) — vía más probable de encontrar tratamiento monográfico reciente de una figura poco estudiada como El Piyayo.
-
-## 2. Honestidad bibliográfica — Sin deducción (fortaleza)
-
-Ninguna cita fabricada o mal atribuida. Todas las etiquetas `% UNVERIFIED` justificadas. La corrección "Eusebio Rioja" vs. "Eusebio Rojas" está bien resuelta en cuanto a identidad del investigador (triangulación sólida vía ISBN, catálogo CEDMA, menciones cruzadas), aunque queda correctamente señalada la ambigüedad de si existe una obra monográfica suya sobre el Piyayo. Imprecisión menor: Manuel (1.1.8) es un volumen editado multi-autor, no monografía de autor único — corregir descripción.
-
-## 3. Rastreo de citas — Deducción: −4
-
-Evidencia de rastreo analítico real (linaje Ortiz→Argeliers León→Pérez Fernández; Linares como única figura que cruza ambos campos). Pero la afirmación central de "ausencia de cita cruzada sistemática" (que fundamenta la originalidad de la tesis) se apoya en snippets de `WebSearch`, no en bibliografías completas leídas directamente (bloqueadas por 403) — insuficiente todavía para sostenerla como evidencia consolidada.
-
-## 4. Proximidad — Sin deducción
-
-Escala 1–5 consistente y bien justificada en las ~25 entradas, alineada correctamente con la convención de `librarian.md` (5 = máxima relevancia).
-
-## 5. Cartografía del debate — Sin deducción (sección ejemplar)
-
-Desglosa dos giros historiográficos distintos (sociológico-antiesencialista general 1991-96 vs. específicamente afroamericano desde 1998-99), confronta el corte de "~2005" con evidencia concreta que lo antecede, y distingue "rigor" de "consolidación institucional". El hallazgo de que el caso Piyayo está fuera del debate por ausencia (no por sesgo) es valioso.
-
-## 6. Tabla de huecos — Creíble y utilizable
-
-Bien vinculada a capítulos específicos. Sugerencia: promover el hueco francófono a esta tabla como fila propia (es un requisito de alcance incumplido, no una limitación incidental).
-
-## 7. Recency — Deducción: −10 (hallazgo más importante)
-
-Distribución por década: 1940-66 (4 fuentes), 1987-99 (~11 fuentes), **2000-2014 prácticamente vacío** (solo Washabaugh 2012), 2015-2026 (3 fuentes). El vacío 2005-2014 es exactamente la ventana que la hipótesis de la autora data como "punto de inflexión" — no puede sostenerse ni refutarse con solidez sin poblar ese rango. Tampoco hay literatura 2024-2026 ni tesis recientes.
-
-## Hallazgo de proceso (para el orquestador)
-
-Los artefactos requeridos por `permissions.md` para el librarian (`annotated_bibliography.md`, `references.bib`, `frontier_map.md`, `positioning.md`) no existen como archivos separados — todo está consolidado en un único `.md`, sin `.bib` formal. Deducción −4 (BibTeX Completeness). No afecta la calidad del contenido, pero bloqueará la validación PRE-dispatch de fases posteriores si se requiere la estructura de archivos separados.
+**Veredicto: LISTO CON RESERVAS** para que la autora lo use como base de su estado de la cuestión del Capítulo 1, siempre que las 5 tareas manuales listadas abajo se ejecuten (o al menos se reconozcan como pendientes) antes de que el capítulo afirme categóricamente "cero fuentes académicas tratan a El Piyayo" o feche el "punto de inflexión" en ~2005 sin matiz.
 
 ---
 
-## Resumen de puntuación
+## 1. Coverage Gaps — Deducción: −5 (mejora desde −12)
 
-| Categoría | Deducción |
-|---|---|
-| Coverage Gaps | −12 |
-| Honestidad bibliográfica | 0 |
-| Rastreo de citas (Categorization Quality) | −4 |
-| Recency | −10 |
-| BibTeX Completeness | −4 |
-| **Total** | **100 − 30 = 70** |
+- **Carpentier (1946): CERRADO con solidez real, no superficial.** Aporta la fuente primaria del eslabón contradanza→habanera→tango, y añade un matiz historiográfico genuino (debate Lapique/Galán sobre el origen francés/haitiano de la contradanza).
+- **Diccionario Blas Vega & Ríos Ruiz: razonablemente aceptado como parcialmente cerrado.** Se confirmó la obra, se corrigió el año (1990, no 1988) y se corrigió una confusión de atribución con *Mundo y formas del cante flamenco*. El bloqueo de acceso a la entrada específica "Piyayo" es creíble.
+- **Francés/Leblon: CERRADO de forma ejemplar.** Convierte un "requisito de alcance incumplido" en un hallazgo sustantivo bien documentado (Leblon cubre gitanidad, no afrocubanía; Oliveau trata globalización contemporánea, no historia). Distingue con disciplina "cerrado en cuanto a búsqueda" de "el hueco sustantivo persiste".
+- **Ventana 2005-2014: mejora real pero el hueco de fondo no se cierra**, y el documento lo admite sin maquillaje: Manuel (2004) queda técnicamente fuera de la ventana por un año; Steingress (2005-2013) tiene el marco correcto pero geografía equivocada (Río de la Plata, no Cuba). El caso Piyayo específico en esa década sigue vacío — esto no es un fallo del Librarian, es un hueco real que probablemente persistirá.
+- **Tesis doctorales y bibliografía de Núñez: no cerrados**, correctamente delegados como tareas de archivo manual (ver reserva en §6).
 
-## Recomendación
+## 2. Journal/Source Quality — Sin deducción
+Peter Manuel (2004) en *Latin American Music Review* es una adición de calidad real. La mezcla libro universitario/artículo indexado/obra de referencia clásica es apropiada para una tesis de humanidades.
 
-Una ronda adicional dirigida (dentro del límite de 1 ronda), enfocada en:
-1. Localizar/descartar Carpentier y el Diccionario de Blas Vega & Ríos Ruiz (entrada sobre El Piyayo).
-2. Segunda pasada francófona real (Cairn.info, Persée) buscando específicamente a Bernard Leblon.
-3. Búsqueda dirigida a la ventana 2005-2014 en las revistas ya identificadas (La Madrugá, Trans, Sinfonía Virtual, Revista de Musicología, Latin American Music Review, Ethnomusicology).
-4. Búsqueda en TESEO/Dialnet Tesis Doctorales de trabajo reciente (2018-2026) sobre El Piyayo o tangos malagueños.
-5. Verificación directa de al menos una bibliografía completa de una obra semilla (Núñez 2021) para sostener la afirmación de ausencia de cita cruzada disciplinar.
+## 3. Scope Calibration — Sin deducción
+El alcance (es/en/fr) sigue siendo apropiado: ni demasiado estrecho ni disperso.
 
-No se recomienda escalar a Usuario — no hay desacuerdo de alcance irresoluble, son huecos de búsqueda concretos y cerrables con una ronda más del propio Librarian.
+## 4. Recency — Deducción: −5 (mejora desde −10)
+El hueco de fondo (2005-2014, caso Cuba/Piyayo específico) sigue siendo real, pero ahora está mucho mejor caracterizado: se sabe qué sí existió en esa década y por qué no cierra el hueco. Transforma un "vacío no investigado" en un "vacío investigado y explicado".
+
+## 5. Categorization Quality — Sin deducción
+Escala de proximidad consistente en las ~28 entradas. La cartografía del debate (§5) sigue siendo la sección más fuerte: matiza la hipótesis con dos giros historiográficos distintos en vez de forzar una narrativa única de "punto de inflexión ~2005".
+
+## 6. BibTeX / Deliverable Completeness — Deducción: −5 (sin cambio, no abordado en Ronda 2)
+`permissions.md` exige para el librarian archivos separados (`annotated_bibliography.md`, `references.bib`, `frontier_map.md`, `positioning.md`). El documento sigue siendo un único `.md` consolidado, sin `.bib` formal. No afecta la usabilidad para que la autora escriba el capítulo, pero bloqueará la validación PRE-dispatch si el proyecto usa este documento dentro de un pipeline orquestado más amplio.
+
+---
+
+## Reserva metodológica sobre los bloqueos 403
+
+Los 403 son sistemáticos a través de dominios completamente no relacionados (Wikipedia, Google Books, Persée, Cairn, CEDMA) en ambas rondas — este patrón es más consistente con una configuración del proxy de salida de este entorno que con un bloqueo genuino de cada sitio individual. No hay evidencia de que se haya intentado el diagnóstico de proxy disponible en el propio entorno antes de declarar estos huecos "no cerrables". No amerita una tercera ronda de búsqueda bibliográfica, pero se señala como vía de mejora de infraestructura para el orquestador, no de contenido.
+
+## Tareas manuales pendientes para la autora (antes de afirmar vacíos categóricos)
+
+1. Consulta física/bibliotecaria del *Diccionario Enciclopédico Ilustrado del Flamenco* (Blas Vega & Ríos Ruiz, 1990, vol. II) para la entrada "Piyayo"/"Flores Nieto".
+2. Búsqueda manual en `teseo.mecd.gob.es` y Dialnet Tesis Doctorales (2015-2026).
+3. Lectura directa de la bibliografía/notas de Núñez, *América en el flamenco* (2021).
+4. Revisar la fecha "~2005" como "punto de inflexión único" en su ficha de investigación — la cartografía del debate sugiere al menos dos giros historiográficos distintos y parcialmente independientes.
+5. Resolver la identidad exacta de "Eusebio Rioja" (no "Rojas") y si existe o no una monografía suya específica sobre El Piyayo.
+
+---
+
+## Tabla de puntuación
+
+| Categoría | Ronda 1 | Ronda 2 |
+|---|---|---|
+| Coverage Gaps | −12 | −5 |
+| Honestidad bibliográfica | 0 | 0 |
+| Rastreo de citas | −4 | −2 |
+| Recency | −10 | −5 |
+| BibTeX/Deliverable Completeness | −4 | −5 (sin cambio) |
+| **Total** | **70/100** | **83/100** |
+
+## Veredicto explícito
+
+**LISTO CON RESERVAS (83/100).** Aprobado para uso como base del estado de la cuestión del Capítulo 1, con las 5 tareas manuales listadas arriba. No se recomienda relanzar al Librarian — no hay desacuerdo de alcance, y los huecos restantes son inherentes al objeto de estudio o requieren acceso físico/institucional que ninguna herramienta de este entorno puede sustituir.
