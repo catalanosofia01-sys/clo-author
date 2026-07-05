@@ -9,119 +9,83 @@ If no field is specified, agents default to applied economics.
 
 ## Field
 
-**Primary:** [e.g., Health Economics, Labor Economics, Development, IO, Public Finance]
-**Adjacent subfields:** [e.g., Labor, Public, IO — fields whose methods and journals overlap]
+**Primary:** Flamencología / Musicología histórica del flamenco
+**Adjacent subfields:** Musicología cubana y afrocubana, estudios de la diáspora atlántica/afrolatinoamericana, etnomusicología, historia cultural de Andalucía
 
 ---
 
-## Target Journals (ranked by tier)
+## Target Venues (ranked by relevance)
 
-<!-- The Orchestrator uses this for journal selection. The Librarian prioritizes these in searches. -->
+<!-- The Orchestrator uses this for framing scope. The Librarian prioritizes these in searches. -->
 
-| Tier | Journals |
+| Tier | Venues / Series |
 |------|----------|
-| Top-5 | AER, Econometrica, JPE, QJE, REStud |
-| Top field | [e.g., JHE, RAND JE, AEJ:EP, AEJ:Applied] |
-| Strong field | [e.g., Health Affairs, AJHE, JPubE, JHR] |
-| Specialty | [e.g., Medical Care, Health Services Research] |
+| Especializadas en flamenco | Revista de Investigación sobre Flamenco "La Madrugá" (Univ. Murcia), Sinfonía Virtual, Trans — Revista Transcultural de Música |
+| Musicología general (ES) | Revista de Musicología (Sociedad Española de Musicología), Anuario Musical (CSIC) |
+| Musicología cubana / afrolatinoamericana | Clave (Cuba), Latin American Music Review (Univ. Texas Press), Ethnomusicology (SEM) |
+| Editoriales / colecciones de referencia | Ediciones Giralda, Cátedra de Flamencología (Jerez), Centro Andaluz de Flamenco, Fundación Casa Fernando Villalón |
+| Archivos y fondos sonoros | Centro Andaluz de Flamenco (fonoteca), Fundación Andaluza de Flamenco, ARTEA/Fonoteca Nacional de Cuba |
 
 ---
 
-## Common Data Sources
+## Corpus / Fuentes Primarias
 
-<!-- The Explorer prioritizes these. The explorer-critic knows their quirks. -->
+<!-- Equivalent to "Common Data Sources" for a musicological/historical thesis. -->
 
-| Dataset | Type | Access | Notes |
+| Fuente | Tipo | Acceso | Notas |
 |---------|------|--------|-------|
-| [e.g., CPS] | [survey/admin/panel] | [public/restricted] | [key strengths and limitations] |
+| Grabaciones de tangos del Piyayo (El Chocolate, José Mercé, etc.) | Sonora / discográfica | Público (Spotify, YouTube, SoundCloud) | Sin grabaciones del propio Piyayo — transmisión oral vía Manolillo El Herraó |
+| Cancioneros y letras publicadas | Textual | Biblioteca / hemeroteca | Contrastar variantes de letra entre transcripciones |
+| Prensa histórica malagueña (finales s. XIX–XX) | Hemeroteca | Público / archivo | Contexto biográfico de El Piyayo y del Perchel |
+| Fondos de musicología cubana (Ortiz, Argeliers León) | Bibliográfica | Biblioteca / digitalizado | Marco comparativo afrocubano, no siempre indexado en fuentes flamencas |
 
 ---
 
-## Common Identification Strategies
+## Enfoques Analíticos Habituales
 
-<!-- The Strategist considers these first. The strategist-critic knows field-specific threats. -->
+<!-- Equivalent to "Common Identification Strategies" — but this thesis is analítico-musicológica, no causal. -->
 
-| Strategy | Typical Application | Key Assumption to Defend |
+| Enfoque | Aplicación típica | Supuesto a defender |
 |----------|-------------------|------------------------|
-| [e.g., State-level DiD] | [Policy variation across states] | [Parallel trends in outcomes across treated/control states] |
+| Análisis comparativo de grabaciones | Contrastar dos interpretaciones del mismo palo (cap. 6) | Las grabaciones elegidas son representativas de la tradición, no idiosincrasias aisladas |
+| Transcripción rítmica/melódica | Identificar síncopas, acentuación y giros melódicos (cap. 4–5) | La transcripción occidental (pentagrama) captura de forma fiable rasgos de tradición oral |
+| Análisis de contenido de las letras | Temas, motivos, construcción del personaje (cap. 3) | Las letras conservadas son atribuibles razonablemente al corpus del Piyayo y no a intérpretes posteriores |
+| Historiografía comparada | Contraste entre relato "casticista" y revisión reciente (Cap. 1, estado de la cuestión) | Es posible datar un punto de inflexión (~últimos 20 años) en el rigor del tratamiento académico |
 
 ---
 
-## Field Conventions
-
-<!-- The Coder and Writer follow these. The writer-critic checks for them. -->
-
-- [e.g., Binary outcomes → report LPM alongside logit/probit marginal effects]
-- [e.g., Cost outcomes → log transform or GLM (Gamma, log link)]
-- [e.g., Clustering at state level for state-level policy variation]
-- [e.g., Always discuss moral hazard / adverse selection implications]
-- [e.g., Welfare analysis expected in top-5 submissions]
-
----
-
-## Notation Conventions
+## Convenciones de Notación
 
 <!-- The Writer and writer-critic enforce these. -->
 
-| Symbol | Meaning | Anti-pattern |
+| Elemento | Significado | Anti-patrón |
 |--------|---------|-------------|
-| [e.g., $Y_{it}$] | [Outcome for individual i at time t] | [Don't use $y$ without subscripts] |
+| Compás por tangos | 4/4, acentuación en 1 y 3 (o variantes locales) | No asumir el compás de la soleá/bulería (12 tiempos) para tangos |
+| "Cantes de ida y vuelta" | Categoría historiográfica (guajira, colombiana, milonga, vidalita, rumba) | No usarlo como sinónimo automático de "influencia afrocubana confirmada" — es precisamente lo que se debate |
+| "Tangos aguajirados" | Denominación alternativa de los tangos del Piyayo | No confundir con la guajira como palo independiente |
 
 ---
 
-## Seminal References
+## Referencias Seminales
 
-<!-- The Librarian ensures these are cited when relevant. The strategist-critic knows their methods. -->
+<!-- The Librarian ensures these are cited when relevant. -->
 
-| Paper | Why It Matters |
+| Referencia | Por qué importa |
 |-------|---------------|
-| [e.g., Finkelstein et al. (2012)] | [Oregon HIE — gold standard for insurance effects] |
+| Faustino Núñez — trabajos sobre cantes de ida y vuelta | Referencia flamenca estándar sobre circulación musical Cuba–España |
+| Cristina Cruces Roldán — historiografía y antropología del flamenco | Marco crítico sobre construcción histórica/identitaria del flamenco |
+| Fernando Ortiz — musicología y antropología afrocubana | Marco de referencia obligado del lado cubano/afrocubano (transculturación) |
+| Eusebio Rojas — biógrafo de El Piyayo | Fuente biográfica directa sobre Rafael Flores Nieto |
+
+*(Sección a completar/ampliar tras la búsqueda bibliográfica formal — partimos de cero para no dar nada por sentado.)*
 
 ---
 
-## Theoretical Foundational References
+## Preocupaciones Típicas del Tribunal / Revisores
 
-<!-- The Theorist and theorist-critic default to these anchors when building or reviewing a theory section.
-     Only needed if the paper has a formal theory section (econometric methods, theory+empirics,
-     structural identification, or methodological reduced-form).
-     Leave empty to fall back to the generic econometric theory defaults baked into the theorist agent. -->
+<!-- Equivalent to "Field-Specific Referee Concerns". -->
 
-| Topic | Anchor references |
-|-------|------------------|
-| [e.g., DiD with staggered adoption] | [e.g., Callaway & Sant'Anna (2021); Sant'Anna & Zhao (2020)] |
-| [e.g., Semiparametric efficiency] | [e.g., Newey (1990, 1994); Bickel-Klaassen-Ritov-Wellner (1993)] |
-
----
-
-## Paper Author Team
-
-<!-- Used by the theorist-critic to calibrate respect. If the authors are themselves among the reference
-     literature on a topic, the critic avoids lecturing them on their own contributions.
-     List author surnames + the topics they are foundational on. -->
-
-| Author | Foundational on |
-|--------|----------------|
-| [e.g., Callaway] | [DiD with staggered adoption, $ATT(g,t)$] |
-
----
-
-## Field-Specific Referee Concerns
-
-<!-- The domain-referee and methods-referee watch for these. -->
-
-- [e.g., "Why not use the Oregon HIE?" — must address if studying insurance effects]
-- [e.g., "Selection into treatment" — always a concern in health care utilization studies]
-- [e.g., "Moral hazard vs adverse selection" — referees expect you to distinguish]
-- [e.g., "External validity" — Medicaid population ≠ general population]
-
----
-
-## Quality Tolerance Thresholds
-
-<!-- Customize for your domain's standards. Used by quality.md. -->
-
-| Quantity | Tolerance | Rationale |
-|----------|-----------|-----------|
-| Point estimates | [e.g., 1e-6] | [Numerical precision] |
-| Standard errors | [e.g., 1e-4] | [MC variability] |
-| Coverage rates | [e.g., ± 0.01] | [Simulation with B reps] |
+- "¿Cómo se distingue influencia documentada de mito romántico de la ida y vuelta?" — hay que abordarlo explícitamente, es el núcleo del debate
+- "¿La transcripción occidental distorsiona rasgos de una tradición oral no escrita?" — anticipar esta objeción metodológica en el capítulo de ritmo/melodía
+- "¿Es representativo un solo cantaor (El Piyayo) para hablar de 'el flamenco' en general?" — justificar el valor del caso de estudio sin sobre-generalizar
+- "¿Las fuentes de musicología cubana citadas hablan realmente de circulación hacia España, o se está infiriendo la conexión?" — evitar asociaciones forzadas entre literatura cubana y flamenca que no se citan mutuamente
