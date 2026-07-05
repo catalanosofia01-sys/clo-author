@@ -75,7 +75,7 @@ If no field is specified, agents default to applied economics.
 | Faustino Núñez — trabajos sobre cantes de ida y vuelta | Referencia flamenca estándar sobre circulación musical Cuba–España |
 | Cristina Cruces Roldán — historiografía y antropología del flamenco | Marco crítico sobre construcción histórica/identitaria del flamenco |
 | Fernando Ortiz — musicología y antropología afrocubana | Marco de referencia obligado del lado cubano/afrocubano (transculturación) |
-| Eusebio Rojas — biógrafo de El Piyayo | Fuente biográfica directa sobre Rafael Flores Nieto |
+| Eusebio Rioja (Rioja Vázquez) — investigador malagueño, fuente biográfica sobre El Piyayo | Autor verificado de *Los cafés cantantes de Málaga* (2013) y *Niño Ricardo* (2006, con Norberto Torres); citado como referencia sobre El Piyayo en fuentes divulgativas, pero no se ha confirmado una monografía específica sobre él — nombre corregido tras la búsqueda bibliográfica (antes, por error, "Eusebio Rojas") |
 
 *(Sección a completar/ampliar tras la búsqueda bibliográfica formal — partimos de cero para no dar nada por sentado.)*
 
