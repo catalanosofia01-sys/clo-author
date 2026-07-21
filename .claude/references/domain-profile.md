@@ -3,125 +3,103 @@
 <!--
 HOW TO USE: Fill this in manually OR let /discover (interactive interview) generate it.
 All agents read this file to calibrate their field-specific behavior.
-Delete sections that don't apply. Add sections specific to your field.
-If no field is specified, agents default to applied economics.
+This project has been adapted from the default applied-economics template to
+Language Teaching / Applied Linguistics (TFM en Didáctica de la Lengua Inglesa),
+per meta-governance.md's allowance to adapt the domain profile to adjacent fields.
+Econometric-specific sections (identification strategies, notation, replication
+tolerances) have been replaced with pedagogical-design equivalents.
 -->
 
 ## Field
 
-**Primary:** [e.g., Health Economics, Labor Economics, Development, IO, Public Finance]
-**Adjacent subfields:** [e.g., Labor, Public, IO — fields whose methods and journals overlap]
+**Primary:** Didáctica de la Lengua Inglesa / Applied Linguistics — Second Language Acquisition (SLA)
+**Adjacent subfields:** Task-Based Language Teaching, Educational Psychology (motivación, ansiedad L2), Game-Based Learning, Aprendizaje Basado en Proyectos (ABP/PBL)
+**Tipo de trabajo:** TFM de propuesta didáctica (no investigación empírica causal) — marco teórico + diseño curricular + secuenciación de sesiones
 
 ---
 
-## Target Journals (ranked by tier)
+## Key Journals / Venues (ranked by relevance)
 
-<!-- The Orchestrator uses this for journal selection. The Librarian prioritizes these in searches. -->
+<!-- The Librarian prioritizes these in searches instead of AER/Econometrica-style top-5. -->
 
-| Tier | Journals |
-|------|----------|
-| Top-5 | AER, Econometrica, JPE, QJE, REStud |
-| Top field | [e.g., JHE, RAND JE, AEJ:EP, AEJ:Applied] |
-| Strong field | [e.g., Health Affairs, AJHE, JPubE, JHR] |
-| Specialty | [e.g., Medical Care, Health Services Research] |
-
----
-
-## Common Data Sources
-
-<!-- The Explorer prioritizes these. The explorer-critic knows their quirks. -->
-
-| Dataset | Type | Access | Notes |
-|---------|------|--------|-------|
-| [e.g., CPS] | [survey/admin/panel] | [public/restricted] | [key strengths and limitations] |
+| Tier | Journals / venues |
+|------|------|
+| Referencia SLA/TBLT | Language Teaching Research, TESOL Quarterly, System, Language Learning |
+| Motivación y psicología L2 | Studies in Second Language Acquisition, Modern Language Journal, Journal of Multilingual and Multicultural Development |
+| Gamificación / GBL | Computer Assisted Language Learning (CALL), ReCALL, Simulation & Gaming |
+| ABP / Project-Based Learning | Interdisciplinary Journal of Problem-Based Learning |
+| Difusión práctica en español | Porta Linguarum, Revista de Innovación Educativa, ELIA |
 
 ---
 
-## Common Identification Strategies
+## Marco curricular / normativo (equivalente a "Common Data Sources")
 
-<!-- The Strategist considers these first. The strategist-critic knows field-specific threats. -->
+<!-- El Explorer/Librarian deben tratar esto como contexto obligatorio, no como "datos" en sentido econométrico. -->
 
-| Strategy | Typical Application | Key Assumption to Defend |
-|----------|-------------------|------------------------|
-| [e.g., State-level DiD] | [Policy variation across states] | [Parallel trends in outcomes across treated/control states] |
+| Fuente | Tipo | Nota |
+|--------|------|------|
+| MCER / CEFR (Consejo de Europa) | Marco de referencia | Descriptores A2 para producción e interacción oral — ancla el nivel del alumnado |
+| LOMLOE (currículo estatal) | Normativa | Marco competencial general (aprendizaje competencial, situaciones de aprendizaje) |
+| Currículo BOJA (Andalucía, 4º ESO) | Normativa autonómica | Debe citarse la orden/decreto vigente para 4º ESO en Primera Lengua Extranjera |
+
+---
+
+## Marcos teóricos y diseño pedagógico (equivalente a "Identification Strategies")
+
+<!-- El Strategist/Writer priorizan estos marcos; el writer-critic vigila que no se mezclen sin distinguir. -->
+
+| Marco | Aplicación típica en este TFM | Distinción clave a defender |
+|-------|-------------------------------|------------------------------|
+| PPP (Presentation-Practice-Production) | Sesiones de input formal (gramática inductiva, comprensión lectora/auditiva) | No confundir con enfoque comunicativo puro — es andamiaje previo |
+| Task-Supported Language Teaching (Ellis) | Sesiones de juego tras el PPP (Who is Who, juego de decisiones, Black Stories adaptado) | TSLT ≠ TBLT — el foco en la forma es explícito y previo, no incidental únicamente |
+| ABP / Project-Based Learning | Producto final: entrevista periodística en roleplay | Debe justificarse como tarea auténtica con audiencia/propósito, no solo "actividad final" |
+| Scaffolding (Vygotsky, Bruner) | Progresión PPP → TSLT → ABP | La ZPD debe quedar explícita en la secuenciación sesión a sesión |
 
 ---
 
 ## Field Conventions
 
-<!-- The Coder and Writer follow these. The writer-critic checks for them. -->
+<!-- El Coder/Writer y el writer-critic vigilan esto en vez de convenciones econométricas. -->
 
-- [e.g., Binary outcomes → report LPM alongside logit/probit marginal effects]
-- [e.g., Cost outcomes → log transform or GLM (Gamma, log link)]
-- [e.g., Clustering at state level for state-level policy variation]
-- [e.g., Always discuss moral hazard / adverse selection implications]
-- [e.g., Welfare analysis expected in top-5 submissions]
-
----
-
-## Notation Conventions
-
-<!-- The Writer and writer-critic enforce these. -->
-
-| Symbol | Meaning | Anti-pattern |
-|--------|---------|-------------|
-| [e.g., $Y_{it}$] | [Outcome for individual i at time t] | [Don't use $y$ without subscripts] |
+- Cada actividad lúdica debe justificarse con el constructo psicológico que activa (ansiedad, motivación, WTC, flow) — no presentar "gamificación" como valor por sí sola.
+- Distinguir siempre TBLT vs. TSLT (Ellis) de forma explícita al citar a Ellis.
+- Vincular cada sesión (de las 8-9 de la unidad) a un principio teórico concreto — trazabilidad teoría↔sesión.
+- Citar la normativa BOJA/LOMLOE vigente para 4º ESO al justificar el encaje curricular.
+- Nivel A2 (MCER) como ancla constante al describir expectativas de producción oral.
 
 ---
 
-## Seminal References
+## Autores y referencias fundacionales (equivalente a "Seminal References")
 
-<!-- The Librarian ensures these are cited when relevant. The strategist-critic knows their methods. -->
+<!-- El Librarian se asegura de citarlos cuando sea relevante. -->
 
-| Paper | Why It Matters |
-|-------|---------------|
-| [e.g., Finkelstein et al. (2012)] | [Oregon HIE — gold standard for insurance effects] |
-
----
-
-## Theoretical Foundational References
-
-<!-- The Theorist and theorist-critic default to these anchors when building or reviewing a theory section.
-     Only needed if the paper has a formal theory section (econometric methods, theory+empirics,
-     structural identification, or methodological reduced-form).
-     Leave empty to fall back to the generic econometric theory defaults baked into the theorist agent. -->
-
-| Topic | Anchor references |
-|-------|------------------|
-| [e.g., DiD with staggered adoption] | [e.g., Callaway & Sant'Anna (2021); Sant'Anna & Zhao (2020)] |
-| [e.g., Semiparametric efficiency] | [e.g., Newey (1990, 1994); Bickel-Klaassen-Ritov-Wellner (1993)] |
+| Autor / obra | Por qué importa |
+|--------------|------------------|
+| Ellis, R. (2003, 2009) | Distinción Task-Based vs. Task-Supported Language Teaching — eje central del TFM |
+| Krashen, S. (Affective Filter Hypothesis) | Base teórica de la reducción de ansiedad mediante el juego |
+| Deci, E. & Ryan, R. (Self-Determination Theory) | Motivación intrínseca — autonomía, competencia, relación |
+| MacIntyre, P. (Willingness to Communicate) | Constructo psicológico ligado a la disposición a hablar en L2 |
+| Vygotsky, L. / Bruner, J. | Andamiaje (scaffolding) y ZPD — justifica la progresión PPP→TSLT→ABP |
+| Csikszentmihalyi, M. (Flow) | Engagement en tareas lúdicas con reglas y roles |
+| Horwitz, E. et al. (FLCAS) | Instrumento de referencia para ansiedad en el aula de lengua extranjera |
 
 ---
 
-## Paper Author Team
+## Preocupaciones típicas del tribunal (equivalente a "Field-Specific Referee Concerns")
 
-<!-- Used by the theorist-critic to calibrate respect. If the authors are themselves among the reference
-     literature on a topic, the critic avoids lecturing them on their own contributions.
-     List author surnames + the topics they are foundational on. -->
-
-| Author | Foundational on |
-|--------|----------------|
-| [e.g., Callaway] | [DiD with staggered adoption, $ATT(g,t)$] |
-
----
-
-## Field-Specific Referee Concerns
-
-<!-- The domain-referee and methods-referee watch for these. -->
-
-- [e.g., "Why not use the Oregon HIE?" — must address if studying insurance effects]
-- [e.g., "Selection into treatment" — always a concern in health care utilization studies]
-- [e.g., "Moral hazard vs adverse selection" — referees expect you to distinguish]
-- [e.g., "External validity" — Medicaid population ≠ general population]
+- "¿Por qué Task-Supported y no Task-Based puro?" — debe responderse con la distinción de Ellis, no de pasada.
+- "¿Los juegos son solo motivacionales o también trabajan la lengua meta?" — cada juego debe justificar su función lingüística, no solo lúdica.
+- "¿La entrevista es un ABP genuino?" — exigir producto tangible, audiencia (real o simulada) y propósito comunicativo explícito.
+- "¿Cómo se evalúa el aprendizaje?" — el TFM debería anticipar criterios/rúbrica de evaluación de la producción oral final, aunque sea propuesta y no estudio empírico.
+- Actualidad bibliográfica — el tribunal valora fuentes de los últimos ~10 años, no solo los clásicos (Ellis, Krashen, Vygotsky), para mostrar dominio del estado de la cuestión actual.
 
 ---
 
 ## Quality Tolerance Thresholds
 
-<!-- Customize for your domain's standards. Used by quality.md. -->
+<!-- No aplica en sentido numérico/econométrico; se sustituye por un chequeo de rigor conceptual. -->
 
-| Quantity | Tolerance | Rationale |
-|----------|-----------|-----------|
-| Point estimates | [e.g., 1e-6] | [Numerical precision] |
-| Standard errors | [e.g., 1e-4] | [MC variability] |
-| Coverage rates | [e.g., ± 0.01] | [Simulation with B reps] |
+| Aspecto | Umbral | Rationale |
+|---------|--------|-----------|
+| Antigüedad media de las fuentes clave del estado de la cuestión | Preferir mayoría de últimos 10 años | El tribunal penaliza marcos teóricos apoyados solo en clásicos sin literatura reciente |
+| Trazabilidad teoría→sesión | 100% de sesiones (8-9) justificadas por al menos un principio del marco teórico | Coherencia interna exigida por el TFM |
