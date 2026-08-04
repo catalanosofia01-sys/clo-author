@@ -81,6 +81,15 @@ Serie documental dirigida por José María Velázquez(-Gaztelu) `% UNVERIFIED` n
 
 - El vídeo de YouTube "Ángel de Álora y Manolillo el Herraor - Tangos del Piyayo" (`https://www.youtube.com/watch?v=QuaGhc2_QH8`, subido el 8 de mayo de 2011 según snippet) parece ser, con alta probabilidad, un fragmento de esta misma serie de RTVE recuperado y resubido — pero **la fecha de subida a YouTube (2011) no es la fecha de grabación**, y no se confirmó si el vídeo indica en su descripción el año exacto de grabación original. `% UNVERIFIED`.
 
+**`[NUEVO — Ronda 6]` Números de capítulo localizados — dos candidatos distintos, no confundir entre sí:**
+
+Búsqueda dirigida (a petición de la autora) para identificar el capítulo exacto donde aparece Ángel de Álora. Se han localizado y triangulado **dos capítulos distintos** de la serie (numeración de `flamencoviejo.com`, que cataloga la serie completa con el esquema "capítulo-parte"), y es importante no fusionarlos:
+
+1. **Capítulo 17-3, "Málaga y Levante"** (`flamencoviejo.com/rito-y-geografia-del-cante-17-3-malaga-y-levante.html`, confirmado también por `telealacarta.wordpress.com` citando RTVE.es). Episodio regional dedicado a los cantes de Málaga y Levante — el contexto más probable para la actuación general de Ángel de Álora interpretando tangos malagueños. **`% UNVERIFIED`** si Manolillo aparece específicamente en este capítulo (no confirmado en los snippets).
+2. **Capítulo 13-3, "Cantes flamencos importados"**, **emisión nº 91 de la serie, emitido el 27 de agosto de 1973** (dato con fecha exacta, localizado vía `WebSearch` en referencias cruzadas de Revista DeFlamenco y YouTube) — este es el episodio temático sobre cantes de ida y vuelta (guajiras, colombianas, milongas, tangos americanos), y es el candidato mucho más probable para contener la cita de Manolillo sobre "ida y vuelta" (§ arriba) y para el tratamiento específico de los tangos del Piyayo como caso de cante "importado". `% UNVERIFIED` — no se ha podido confirmar por lectura directa (403 en deflamenco.com) que Manolillo o Ángel de Álora aparezcan nombrados en este capítulo concreto, pero la coincidencia temática y la fecha (agosto 1973, coherente con "hacia el final de la serie, 1973" ya documentado) hacen de este el candidato más fuerte.
+
+**Recomendación para la autora:** buscar directamente estos dos capítulos por su número en el archivo de RTVE (`rtve.es/archivo`) o en YouTube — "Rito y Geografía del Cante 17-3" y "Rito y Geografía del Cante 13-3 Cantes flamencos importados" son términos de búsqueda exactos y verificables. El capítulo 13-3 es la prioridad para verificar la cita de Manolillo; el 17-3 es la prioridad para la actuación general de Ángel de Álora con tangos malagueños.
+
 ### 2.3 La cuestión de la "grabación de 1960 desde una reunión privada" — probable confusión con Antonio "El Chaqueta"
 
 Este es el hallazgo más importante de todo el apartado de grabaciones, y responde directamente a la pregunta que motivó este encargo.
